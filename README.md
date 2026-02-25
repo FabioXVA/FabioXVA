@@ -1,16 +1,74 @@
-## Hi there 👋
+   Olá, eu sou o Fábio
 
-<!--
-**FabioXVA/FabioXVA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bacharel em Ciência da Computação e Front-end Engineer, moro em São Paulo.
 
-Here are some ideas to get you started:
+Meu objetivo é construir aplicações úteis e bem estruturadas, priorizando escalabilidade, performance e sustentabilidade de código. Busco evoluir constantemente da execução técnica para um pensamento cada vez mais arquitetural.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🏗️ Arquitetura Front-end
+
+- Organização baseada em domínio (Feature-based Architecture)
+- Component-driven development
+- Performance e otimização (Core Web Vitals)
+- Padrões e boas práticas de engenharia
+
+---
+
+## 📚 Estudos e Evolução
+
+- Clean Architecture
+- Domain-Driven Design (DDD)
+- Test-Driven Development (TDD)
+- Escalabilidade de aplicações React
+
+Acredito que código vai além de simplesmente funcionar.
+
+---
+
+## 📫 Contato
+
+[![Gmail](https://img.shields.io/badge/Gmail-Enviar%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fabio.fxva@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU-LINK-AQUI)
+
+```ts
+const Stack = {
+  languages: [
+    "JavaScript",
+    "TypeScript",
+    "HTML"
+  ],
+
+  styling: {
+    base: ["CSS", "SCSS"],
+    utilities: ["Tailwind", "Tachyons"],
+    architecture: ["CSS Handles", "Styled-components"]
+  },
+
+  frontend: {
+    core: ["React"],
+    patterns: ["Hooks", "Context API"]
+  },
+
+  apis: [
+    "REST",
+    "GraphQL (learning)"
+  ],
+
+  performance: [
+    "Core Web Vitals",
+    "Lazy Loading",
+    "Code Splitting"
+  ],
+
+  methodologies: [
+    "Scrum",
+    "Kanban"
+  ],
+
+  workflow: [
+    "Git Flow",
+    "Gulp"
+  ]
+}
+```
